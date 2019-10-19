@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{142ACE4E-3D29-413A-A8D6-2D8ACBDADDAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMIS.Api", "HRMIS.Api\HRMIS.Api.csproj", "{E81078FB-5422-400A-9B97-743133829A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81078FB-5422-400A-9B97-743133829A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81078FB-5422-400A-9B97-743133829A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81078FB-5422-400A-9B97-743133829A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81078FB-5422-400A-9B97-743133829A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E81078FB-5422-400A-9B97-743133829A0D} = {142ACE4E-3D29-413A-A8D6-2D8ACBDADDAB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B3ECDD-FB59-4447-9F39-897E61A14A56}
+	EndGlobalSection
+EndGlobal
